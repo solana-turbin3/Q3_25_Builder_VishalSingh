@@ -1,0 +1,4 @@
+# in .gitignore
+*wallet.json
+#ignore all node modules
+node_modules/
