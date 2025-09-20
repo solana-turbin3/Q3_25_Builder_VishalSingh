@@ -1,0 +1,4 @@
+# Devnet Info
+Program Id: 5Nkjj92ihWdABzMZA3guaSwhyH3BS3QReEDRBi1aJVM
+
+Signature: 5xtVZZXCv2Cw3mihdGfCqiajBzfhVzqKZF9jXqM3PFUr69iK8un6ey78VmgosfpJ5YopN42uG6UzUXC9jrYmM2Be
